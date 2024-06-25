@@ -2,7 +2,7 @@
 ### Alvaro Villamizar
 
 
-https://github.com/AlvaroVillamizar/Visor-de-Calidad-del-agua/assets/43424429/47b0d3ff-67ff-427f-baaf-d360ae493355
+https://github.com/AlvaroVillamizar/Visor-de-Calidad-del-agua/assets/43424429/7d6ecdbc-69b3-4276-bdac-ef58901002d8
 
 
 Enlace al reporte: https://app.powerbi.com/reportEmbed?reportId=7dcb6a0a-3b44-4085-a4f4-475b97cde28f
