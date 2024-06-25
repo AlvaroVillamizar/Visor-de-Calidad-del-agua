@@ -1,3 +1,8 @@
+<figure class="image">
+<p align="center">
+<img src="https://github.com/AlvaroVillamizar/Visor-de-Calidad-del-agua/blob/main/Images/Banner_IRCA.png" width="auto" height="auto">
+
+
 # Visor de calidad del agua en Colombia
 ### Alvaro Villamizar
 
@@ -27,6 +32,7 @@ El segundo tablero aborda las redes de alcantarillado y acueducto. Esta visualiz
 <figure class="image">
 <p align="center">
 <img src="https://github.com/AlvaroVillamizar/Visor-de-Calidad-del-agua/blob/main/Images/Menú_IRCA.png" width="auto" height="auto">
+  
 **Figura 1.** Menú de características.
 
 Finalmente, el tablero denominado “Población Vs Muestras” se presenta un mapa de colores, un gráfico de torta y una tabla informativa. El propósito principal de esta subsección es evaluar la suficiencia de muestras de IRCA disponibles para cada municipio. Los municipios se clasifican en las categorías de "Cumple" o "No cumple" según la cantidad de muestras disponibles. Para esta categorización, se sigue el siguiente criterio
