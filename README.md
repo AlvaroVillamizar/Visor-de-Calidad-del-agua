@@ -10,8 +10,6 @@
 https://github.com/AlvaroVillamizar/Visor-de-Calidad-del-agua/assets/43424429/7d6ecdbc-69b3-4276-bdac-ef58901002d8
 
 
-Enlace al reporte: https://app.powerbi.com/reportEmbed?reportId=7dcb6a0a-3b44-4085-a4f4-475b97cde28f
-
 Para este proyecto se desarrollaron tres tableros de visualización utilizando el software de Power BI, destinados a optimizar la gestión de infraestructuras críticas en el ámbito municipal.
 
 El primer tablero, denominado “IRCA urbano - rural” se enfoca en el Índice de Riesgo de Calidad del Agua (IRCA), proporcionando una representación gráfica y detallada de los niveles de riesgo en diferentes regiones. Mediante mapas de calor se categoriza cada municipio en función de su clasificación y valor IRCA. En esta visualización se ha aplicado una codificación que utiliza valores específicos y colores para representar las distintas categorías según la calidad del agua en cada municipio, clasificados de acuerdo a la información de la siguiente tabla.
